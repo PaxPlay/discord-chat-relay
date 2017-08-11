@@ -7,6 +7,7 @@ Requirements:
   * [SteamWorks](https://forums.alliedmods.net/showthread.php?t=229556)
   * [smjansson](https://forums.alliedmods.net/showthread.php?t=184604)
 * [Socket](https://forums.alliedmods.net/showthread.php?t=67640)
+* (for compilation)[chatcolors include](https://github.com/PaxPlay/chatcolors-include)
 
 Note: You'll need a discord app with bot. [How to create](https://github.com/Deathknife/sourcemod-discord/wiki/Setting-up-a-Bot-Account)
 
